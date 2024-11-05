@@ -1,6 +1,9 @@
-Hello, I'm David! 👋
+`Hello, World!`
 
-- 💻 I'm interested in frontend development
-- ⚛ I'm a React TypeScript developer
-- 🏗 I'm building React Native apps with <a href="https://docs.expo.dev/" target="_blank">Expo</a>
-- 🚧 I'm mastering full stack development
+My name is David and I am: 
+
+- 👨‍💻 A frontend development enthusiast
+- ⚛ A React & React Native developer
+- 💪🏼 Mastering full stack development
+
+Learn more about what I do at [cornejobarraza.dev](https://cornejobarraza.dev)
